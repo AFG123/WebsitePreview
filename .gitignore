@@ -1,0 +1,10 @@
+# Environment / secrets
+config.php
+.env
+
+# User uploads
+uploads/
+
+# Dependencies (if added later)
+vendor/
+node_modules/
